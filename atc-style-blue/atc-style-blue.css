@@ -83,7 +83,7 @@
     outline: none;
     line-height: 20px;
     vertical-align: middle;
-    background: rgb(66,129,244);
+    background: #81BDE7;
     box-shadow: 0 0 40px rgba(0, 0, 0, .13) inset;
     border-radius: 4px;
     zoom: 1;
@@ -91,7 +91,7 @@
 
 .atc-style-blue .atcb-list {
     width: 170px;
-    border: 1px solid rgb(186,186,186);
+    border: 1px solid #81BDE7;
     border-radius: 2px;
     box-shadow: 0 0 5px #AAA;
 }
@@ -133,6 +133,6 @@
 
 .atc-style-blue .atcb-item.hover,
 .atc-style-blue .atcb-item:hover {
-    background: rgb(66,129,244);
+    background: #81BDE7;
 }
 
